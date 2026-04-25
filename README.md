@@ -21,12 +21,6 @@
 
 ---
 
-### 💻 Tech Stack
-<p>
-<img src="https://skillicons.dev/icons?i=python,sql,java,cpp,git,github,excel,pandas,numpy" />
-</p>
-
----
 
 ### 🚀 What I Work On
 - 🔍 Building projects involving **AI, data processing & automation**
